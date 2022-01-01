@@ -8,10 +8,8 @@
 #打卡内容：
 
 (1)通读go官方文档：Tutorial: Developing a RESTful API with Go and Gin
+(2)通读go官方文档：Writing Web Applications 60%
 
-(2).Go mutex 使用及其原理探究
-
-(3).其他学习内容均可
 ```
 
 
