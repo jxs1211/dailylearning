@@ -8,12 +8,24 @@
 #打卡内容：
 
 (1)通读go官方文档：Tutorial: Developing a RESTful API with Go and Gin
+(2)通读go官方文档：Writing Web Applications 60%
 
-(2).Go mutex 使用及其原理探究
-
-(3).其他学习内容均可
 ```
 
+```
+#早读打卡 #2022-1-2
 
+#打卡人 Shen Xianjie
 
+#本周第 2 次打卡
+
+#打卡内容：
+
+(1)通读go官方文档：Writing Web Applications
+(2)通读go官方文档：How to write Go code
+```
+
+```
+
+```
 
