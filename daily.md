@@ -35,7 +35,35 @@
 #打卡内容：
 
 (1)通读go官方文档：How to write Go code
-(2)通读go官方文档：A Tour of Go
+(2)通读go官方文档：A Tour of Go 70%
+```
+
+```
+#早读打卡 #2022-1-4
+
+#打卡人 Shen Xianjie
+
+#本周第 4 次打卡
+
+#打卡内容：
+
+(1)通读go官方文档：A Tour of Go
+(2)通读go官方文档：Effective Go
+(3)通读go官方文档：Editor plugins and IDEs
+(4)通读go官方文档：Diagnostics
+(5)通读go官方文档：Managing dependencies
+```
+
+```
+#早读打卡 #2022-1-5
+
+#打卡人 Shen Xianjie
+
+#本周第 5 次打卡
+
+#打卡内容：
+
+(1)通读go官方文档：Frequently Asked Questions (FAQ) 40%
 ```
 
 ```
