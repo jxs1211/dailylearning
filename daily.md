@@ -63,7 +63,7 @@
 
 #打卡内容：
 
-(1)通读go官方文档：Frequently Asked Questions (FAQ) 40%
+(1)通读go官方文档： Frequently Asked Questions (FAQ) 40%
 ```
 
 ```
