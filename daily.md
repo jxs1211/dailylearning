@@ -79,6 +79,18 @@
 ```
 
 ```
+#早读打卡 #2022-1-8
+
+#打卡人 Shen Xianjie
+
+#本周第 5 次打卡
+
+#打卡内容：
+
+(1)通读go官方文档：CodeReviewComments(https://github.com/golang/go/wiki/CodeReviewComments#gofmt)
+```
+
+```
 
 ```
 
