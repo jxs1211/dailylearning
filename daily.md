@@ -87,7 +87,10 @@
 
 #打卡内容：
 
-(1)通读go官方文档：CodeReviewComments(https://github.com/golang/go/wiki/CodeReviewComments#gofmt)
+(1)通读go官方文档：
+go CodeReviewComment(https://go.dev/wiki/CodeReviewComments)
+(2)通读go官方文档：Tutorial: 
+Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 ```
 
 ```
