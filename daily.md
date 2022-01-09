@@ -94,6 +94,18 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 ```
 
 ```
+#早读打卡 #2022-1-9
+
+#打卡人 Shen Xianjie
+
+#本周第 6 次打卡
+
+#打卡内容：
+
+(1)通读CNCF annual report 2021 30%
+```
+
+```
 
 ```
 
