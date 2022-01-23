@@ -290,6 +290,21 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 ```
 
 ```
+#累计打卡 #第22天
+
+#打卡时间 #2022-1-23
+
+#打卡人 Shen Xianjie
+
+#本周第 6 次打卡
+
+#打卡内容：
+
+(1)通读《改善Go语言编程质量的50个有效实践》[https://www.helloworld.net/special/jnwqhy/2045775959]
+38-41
+```
+
+```
 
 ```
 
