@@ -326,8 +326,6 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 
 #打卡人 Shen Xianjie
 
-#本周第 8 次打卡
-
 #打卡内容：
 
 (1)通读Go语言精进之路1
@@ -340,8 +338,6 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 #打卡时间 #2022-1-26
 
 #打卡人 Shen Xianjie
-
-#本周第 9 次打卡
 
 #打卡内容：
 
@@ -356,8 +352,6 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 
 #打卡人 Shen Xianjie
 
-#本周第 10 次打卡
-
 #打卡内容：
 
 (1)通读Go语言精进之路1
@@ -365,6 +359,28 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 ```
 
 ```
+#累计打卡 #第27天
 
+#打卡时间 #2022-1-29
+
+#打卡人 Shen Xianjie
+
+#打卡内容：
+
+(1)通读Go语言精进之路1
+19-23
+```
+
+```
+#累计打卡 #第28天
+
+#打卡时间 #2022-1-30
+
+#打卡人 Shen Xianjie
+
+#打卡内容：
+
+(1)通读Go语言精进之路1
+24-25
 ```
 
