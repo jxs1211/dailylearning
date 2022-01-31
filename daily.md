@@ -381,6 +381,23 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 #打卡内容：
 
 (1)通读Go语言精进之路1
-24-25
+24
+```
+
+```
+#累计打卡 #第29天
+
+#打卡时间 #2022-1-31
+
+#打卡人 Shen Xianjie
+
+#打卡内容：
+
+(1)通读Go语言精进之路1
+25
+```
+
+```
+
 ```
 
