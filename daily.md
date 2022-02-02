@@ -420,11 +420,7 @@ Accessing a relational database(https://go.dev/doc/tutorial/database-access)
 #打卡内容：
 
 (1)通读Go语言精进之路1
-<<<<<<< HEAD
-27-28
-=======
 27-29
->>>>>>> 14f48e2... feat(dailylearning): Go语言精进之路1 26
 ```
 
 ```
